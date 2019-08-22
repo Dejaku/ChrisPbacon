@@ -1,0 +1,52 @@
+
+/* Font tags css sheet*/
+
+/*font-family*/
+p {
+	font-family: 'Homemade Apple', cursive;
+}
+
+h1{
+	font-family: 'Monoton', cursive;
+
+}
+
+/*font-size*/
+
+h1{
+	/*font-size: 55px;*/
+
+	/*span{font-size:2.0em}   this one makes text 2 times the size of sibling text*/
+}
+
+p{
+	font-weight: 600;
+}
+
+/*font-weight*/
+p{
+	font-weight: 600;
+}
+
+
+/*line-height*/
+p{
+	line-height:1.5;
+}
+
+
+/*texy-align*/
+h1{
+	text-align:center;
+}
+
+p{ 
+  text-align: center
+ }
+
+
+/*text-decoration*/
+
+p:nth-of-type(2){
+	text-decoration: underline;
+}
